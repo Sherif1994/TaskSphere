@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.db
+secrets.json
+.env
+
+# Logs
+logs/
