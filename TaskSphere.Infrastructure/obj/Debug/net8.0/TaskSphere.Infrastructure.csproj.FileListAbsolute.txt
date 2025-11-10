@@ -1,0 +1,17 @@
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\bin\Debug\net8.0\TaskSphere.Infrastructure.deps.json
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\bin\Debug\net8.0\TaskSphere.Infrastructure.runtimeconfig.json
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\bin\Debug\net8.0\TaskSphere.Infrastructure.dll
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\bin\Debug\net8.0\TaskSphere.Infrastructure.pdb
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\bin\Debug\net8.0\TaskSphere.Domain.dll
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\bin\Debug\net8.0\TaskSphere.Domain.pdb
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\obj\Debug\net8.0\TaskSphere.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\obj\Debug\net8.0\TaskSphere.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\obj\Debug\net8.0\TaskSphere.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\obj\Debug\net8.0\TaskSphere.Infrastructure.AssemblyInfo.cs
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\obj\Debug\net8.0\TaskSphere.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\obj\Debug\net8.0\TaskSphe.0CE550CB.Up2Date
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\obj\Debug\net8.0\TaskSphere.Infrastructure.dll
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\obj\Debug\net8.0\refint\TaskSphere.Infrastructure.dll
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\obj\Debug\net8.0\TaskSphere.Infrastructure.pdb
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\obj\Debug\net8.0\TaskSphere.Infrastructure.genruntimeconfig.cache
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\obj\Debug\net8.0\ref\TaskSphere.Infrastructure.dll

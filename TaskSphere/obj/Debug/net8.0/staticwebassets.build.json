@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4WmVjPwSbi/bH4cRTZC680FehCwdHli3bh6pr5kCumw=",
+  "Source": "TaskSphere.Api",
+  "BasePath": "_content/TaskSphere.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

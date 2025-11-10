@@ -1,0 +1,14 @@
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\bin\Debug\net8.0\TaskSphere.Domain.deps.json
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\bin\Debug\net8.0\TaskSphere.Domain.runtimeconfig.json
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\bin\Debug\net8.0\TaskSphere.Domain.dll
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\bin\Debug\net8.0\TaskSphere.Domain.pdb
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\obj\Debug\net8.0\TaskSphere.Domain.csproj.AssemblyReference.cache
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\obj\Debug\net8.0\TaskSphere.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\obj\Debug\net8.0\TaskSphere.Domain.AssemblyInfoInputs.cache
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\obj\Debug\net8.0\TaskSphere.Domain.AssemblyInfo.cs
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\obj\Debug\net8.0\TaskSphere.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\obj\Debug\net8.0\TaskSphere.Domain.dll
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\obj\Debug\net8.0\refint\TaskSphere.Domain.dll
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\obj\Debug\net8.0\TaskSphere.Domain.pdb
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\obj\Debug\net8.0\TaskSphere.Domain.genruntimeconfig.cache
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\obj\Debug\net8.0\ref\TaskSphere.Domain.dll
