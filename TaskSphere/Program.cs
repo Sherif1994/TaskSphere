@@ -19,8 +19,8 @@ builder.Host.UseSerilog();
 // 2️⃣ Add Services from each layer
 // ---------------------------------------------------------
 
-builder.Services.AddApplicationServices();      // <-- from TaskSphere.Application
 builder.Services.AddInfrastructureServices(builder.Configuration); // <-- from TaskSphere.Infrastructure
+builder.Services.AddApplicationServices();      // <-- from TaskSphere.Application
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();     // for Swagger

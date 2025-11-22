@@ -9,10 +9,10 @@ namespace TaskSphere.Application
         public static IServiceCollection AddApplicationServices(this IServiceCollection services)
         {
             services.AddMediatR(cfg =>
-                cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
+                cfg.RegisterServicesFromAssembly(typeof(DependencyInjection).Assembly));
 
-            // Add FluentValidation or any other services here later
             return services;
         }
+
     }
 }

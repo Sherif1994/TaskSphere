@@ -183,3 +183,4 @@ C:\Users\elwady\source\repos\TaskSphere\TaskSphere\obj\Debug\net8.0\refint\TaskS
 C:\Users\elwady\source\repos\TaskSphere\TaskSphere\obj\Debug\net8.0\TaskSphere.Api.pdb
 C:\Users\elwady\source\repos\TaskSphere\TaskSphere\obj\Debug\net8.0\TaskSphere.Api.genruntimeconfig.cache
 C:\Users\elwady\source\repos\TaskSphere\TaskSphere\obj\Debug\net8.0\ref\TaskSphere.Api.dll
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere\obj\Debug\net8.0\TaskSphere.Api.sourcelink.json
