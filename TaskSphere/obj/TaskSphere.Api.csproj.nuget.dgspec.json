@@ -32,7 +32,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Infrastructure\\TaskSphere.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Infrastructure\\TaskSphere.Infrastructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

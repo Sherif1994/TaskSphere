@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9423B856-AEB1-49CA-BBEC-BB735875BAE6}|TaskSphere\\TaskSphere.Api.csproj|c:\\users\\elwady\\source\\repos\\tasksphere\\tasksphere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9423B856-AEB1-49CA-BBEC-BB735875BAE6}|TaskSphere\\TaskSphere.Api.csproj|solutionrelative:tasksphere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD41E21E-EC49-4165-BDD8-EA42FB5E75B0}|TaskSphere.Application\\TaskSphere.Application.csproj|c:\\users\\elwady\\source\\repos\\tasksphere\\tasksphere.application\\tasks\\queries\\getalltasksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD41E21E-EC49-4165-BDD8-EA42FB5E75B0}|TaskSphere.Application\\TaskSphere.Application.csproj|solutionrelative:tasksphere.application\\tasks\\queries\\getalltasksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A960A728-458A-44AB-883E-134F5C8D89C2}|TaskSphere.Infrastructure\\TaskSphere.Infrastructure.csproj|c:\\users\\elwady\\source\\repos\\tasksphere\\tasksphere.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A960A728-458A-44AB-883E-134F5C8D89C2}|TaskSphere.Infrastructure\\TaskSphere.Infrastructure.csproj|solutionrelative:tasksphere.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD41E21E-EC49-4165-BDD8-EA42FB5E75B0}|TaskSphere.Application\\TaskSphere.Application.csproj|c:\\users\\elwady\\source\\repos\\tasksphere\\tasksphere.application\\tasks\\commands\\createtaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD41E21E-EC49-4165-BDD8-EA42FB5E75B0}|TaskSphere.Application\\TaskSphere.Application.csproj|solutionrelative:tasksphere.application\\tasks\\commands\\createtaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD41E21E-EC49-4165-BDD8-EA42FB5E75B0}|TaskSphere.Application\\TaskSphere.Application.csproj|c:\\users\\elwady\\source\\repos\\tasksphere\\tasksphere.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD41E21E-EC49-4165-BDD8-EA42FB5E75B0}|TaskSphere.Application\\TaskSphere.Application.csproj|solutionrelative:tasksphere.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD41E21E-EC49-4165-BDD8-EA42FB5E75B0}|TaskSphere.Application\\TaskSphere.Application.csproj|c:\\users\\elwady\\source\\repos\\tasksphere\\tasksphere.application\\tasks\\commands\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD41E21E-EC49-4165-BDD8-EA42FB5E75B0}|TaskSphere.Application\\TaskSphere.Application.csproj|solutionrelative:tasksphere.application\\tasks\\commands\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A960A728-458A-44AB-883E-134F5C8D89C2}|TaskSphere.Infrastructure\\TaskSphere.Infrastructure.csproj|c:\\users\\elwady\\source\\repos\\tasksphere\\tasksphere.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A960A728-458A-44AB-883E-134F5C8D89C2}|TaskSphere.Infrastructure\\TaskSphere.Infrastructure.csproj|solutionrelative:tasksphere.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9423B856-AEB1-49CA-BBEC-BB735875BAE6}|TaskSphere\\TaskSphere.Api.csproj|c:\\users\\elwady\\source\\repos\\tasksphere\\tasksphere\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9423B856-AEB1-49CA-BBEC-BB735875BAE6}|TaskSphere\\TaskSphere.Api.csproj|solutionrelative:tasksphere\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30461EDF-D63F-4907-ACDD-E7B67C3EDC66}|TaskSphere.Domain\\TaskSphere.Domain.csproj|c:\\users\\elwady\\source\\repos\\tasksphere\\tasksphere.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30461EDF-D63F-4907-ACDD-E7B67C3EDC66}|TaskSphere.Domain\\TaskSphere.Domain.csproj|solutionrelative:tasksphere.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30461EDF-D63F-4907-ACDD-E7B67C3EDC66}|TaskSphere.Domain\\TaskSphere.Domain.csproj|c:\\users\\elwady\\source\\repos\\tasksphere\\tasksphere.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30461EDF-D63F-4907-ACDD-E7B67C3EDC66}|TaskSphere.Domain\\TaskSphere.Domain.csproj|solutionrelative:tasksphere.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30461EDF-D63F-4907-ACDD-E7B67C3EDC66}|TaskSphere.Domain\\TaskSphere.Domain.csproj|c:\\users\\elwady\\source\\repos\\tasksphere\\tasksphere.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30461EDF-D63F-4907-ACDD-E7B67C3EDC66}|TaskSphere.Domain\\TaskSphere.Domain.csproj|solutionrelative:tasksphere.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD41E21E-EC49-4165-BDD8-EA42FB5E75B0}|TaskSphere.Application\\TaskSphere.Application.csproj|c:\\users\\elwady\\source\\repos\\tasksphere\\tasksphere.application\\tasksphere.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FD41E21E-EC49-4165-BDD8-EA42FB5E75B0}|TaskSphere.Application\\TaskSphere.Application.csproj|solutionrelative:tasksphere.application\\tasksphere.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD41E21E-EC49-4165-BDD8-EA42FB5E75B0}|TaskSphere.Application\\TaskSphere.Application.csproj|c:\\users\\elwady\\source\\repos\\tasksphere\\tasksphere.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD41E21E-EC49-4165-BDD8-EA42FB5E75B0}|TaskSphere.Application\\TaskSphere.Application.csproj|solutionrelative:tasksphere.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9423B856-AEB1-49CA-BBEC-BB735875BAE6}|TaskSphere\\TaskSphere.Api.csproj|c:\\users\\elwady\\source\\repos\\tasksphere\\tasksphere\\tasksphere.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9423B856-AEB1-49CA-BBEC-BB735875BAE6}|TaskSphere\\TaskSphere.Api.csproj|solutionrelative:tasksphere\\tasksphere.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FD41E21E-EC49-4165-BDD8-EA42FB5E75B0}|TaskSphere.Application\\TaskSphere.Application.csproj|c:\\users\\elwady\\source\\repos\\tasksphere\\tasksphere.application\\tasks\\queries\\getalltasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD41E21E-EC49-4165-BDD8-EA42FB5E75B0}|TaskSphere.Application\\TaskSphere.Application.csproj|solutionrelative:tasksphere.application\\tasks\\queries\\getalltasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,112 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 85,
+          "SelectedChildIndex": 77,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Domain\\Entities\\Project.cs",
-              "RelativeDocumentMoniker": "TaskSphere.Domain\\Entities\\Project.cs",
-              "ToolTip": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Domain\\Entities\\Project.cs",
-              "RelativeToolTip": "TaskSphere.Domain\\Entities\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T21:57:28.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "TaskSphere.Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "TaskSphere.Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T21:57:09.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskItem.cs",
-              "DocumentMoniker": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Domain\\Entities\\TaskItem.cs",
-              "RelativeDocumentMoniker": "TaskSphere.Domain\\Entities\\TaskItem.cs",
-              "ToolTip": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Domain\\Entities\\TaskItem.cs",
-              "RelativeToolTip": "TaskSphere.Domain\\Entities\\TaskItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T21:52:03.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Infrastructure\\Persistence\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TaskSphere.Infrastructure\\Persistence\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Infrastructure\\Persistence\\AppDbContext.cs",
-              "RelativeToolTip": "TaskSphere.Infrastructure\\Persistence\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T21:50:31.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "TaskSphere.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "TaskSphere.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T21:45:09.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "TaskSphere.Application\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "TaskSphere.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T21:43:19.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TaskSphere.Api",
-              "DocumentMoniker": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere\\TaskSphere.Api.csproj",
-              "RelativeDocumentMoniker": "TaskSphere\\TaskSphere.Api.csproj",
-              "ToolTip": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere\\TaskSphere.Api.csproj",
-              "RelativeToolTip": "TaskSphere\\TaskSphere.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-10T21:39:04.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TaskSphere.Application",
-              "DocumentMoniker": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Application\\TaskSphere.Application.csproj",
-              "RelativeDocumentMoniker": "TaskSphere.Application\\TaskSphere.Application.csproj",
-              "ToolTip": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Application\\TaskSphere.Application.csproj",
-              "RelativeToolTip": "TaskSphere.Application\\TaskSphere.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-10T21:37:50.493Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:177:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -462,28 +338,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "TaskSphere.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Application\\Class1.cs",
-              "RelativeToolTip": "TaskSphere.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskSphere\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskSphere\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T21:37:51.64Z",
+              "WhenOpened": "2025-11-22T21:19:21.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere\\Program.cs",
-              "RelativeDocumentMoniker": "TaskSphere\\Program.cs",
-              "ToolTip": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere\\Program.cs",
-              "RelativeToolTip": "TaskSphere\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Title": "GetAllTasksQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Application\\Tasks\\Queries\\GetAllTasksQueryHandler.cs",
+              "RelativeDocumentMoniker": "TaskSphere.Application\\Tasks\\Queries\\GetAllTasksQueryHandler.cs",
+              "ToolTip": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Application\\Tasks\\Queries\\GetAllTasksQueryHandler.cs",
+              "RelativeToolTip": "TaskSphere.Application\\Tasks\\Queries\\GetAllTasksQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T21:37:29.117Z",
+              "WhenOpened": "2025-11-22T21:19:16.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllTasksQuery.cs",
+              "DocumentMoniker": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Application\\Tasks\\Queries\\GetAllTasksQuery.cs",
+              "RelativeDocumentMoniker": "TaskSphere.Application\\Tasks\\Queries\\GetAllTasksQuery.cs",
+              "ToolTip": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Application\\Tasks\\Queries\\GetAllTasksQuery.cs",
+              "RelativeToolTip": "TaskSphere.Application\\Tasks\\Queries\\GetAllTasksQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:19:16.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateTaskCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Application\\Tasks\\Commands\\CreateTaskCommandHandler.cs",
+              "RelativeDocumentMoniker": "TaskSphere.Application\\Tasks\\Commands\\CreateTaskCommandHandler.cs",
+              "ToolTip": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Application\\Tasks\\Commands\\CreateTaskCommandHandler.cs",
+              "RelativeToolTip": "TaskSphere.Application\\Tasks\\Commands\\CreateTaskCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:19:12.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateTaskCommand.cs",
+              "DocumentMoniker": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Application\\Tasks\\Commands\\CreateTaskCommand.cs",
+              "RelativeDocumentMoniker": "TaskSphere.Application\\Tasks\\Commands\\CreateTaskCommand.cs",
+              "ToolTip": "C:\\Users\\elwady\\source\\repos\\TaskSphere\\TaskSphere.Application\\Tasks\\Commands\\CreateTaskCommand.cs",
+              "RelativeToolTip": "TaskSphere.Application\\Tasks\\Commands\\CreateTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T21:19:09.419Z",
               "EditorCaption": ""
             }
           ]

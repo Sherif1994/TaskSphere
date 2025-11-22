@@ -12,3 +12,9 @@ C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Application\obj\Debug\net8.0\
 C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Application\obj\Debug\net8.0\TaskSphere.Application.pdb
 C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Application\obj\Debug\net8.0\TaskSphere.Application.genruntimeconfig.cache
 C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Application\obj\Debug\net8.0\ref\TaskSphere.Application.dll
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Application\obj\Debug\net8.0\TaskSphere.Application.sourcelink.json
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Application\bin\Debug\net8.0\TaskSphere.Domain.dll
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Application\bin\Debug\net8.0\TaskSphere.Infrastructure.dll
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Application\bin\Debug\net8.0\TaskSphere.Infrastructure.pdb
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Application\bin\Debug\net8.0\TaskSphere.Domain.pdb
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Application\obj\Debug\net8.0\TaskSphe.A87E0189.Up2Date

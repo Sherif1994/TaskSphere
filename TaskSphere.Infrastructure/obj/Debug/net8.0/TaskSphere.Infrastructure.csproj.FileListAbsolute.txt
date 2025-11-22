@@ -15,3 +15,4 @@ C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\obj\Debug\net8
 C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\obj\Debug\net8.0\TaskSphere.Infrastructure.pdb
 C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\obj\Debug\net8.0\TaskSphere.Infrastructure.genruntimeconfig.cache
 C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\obj\Debug\net8.0\ref\TaskSphere.Infrastructure.dll
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Infrastructure\obj\Debug\net8.0\TaskSphere.Infrastructure.sourcelink.json

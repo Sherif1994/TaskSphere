@@ -1598,7 +1598,8 @@
           "Serilog": "4.3.0",
           "Serilog.AspNetCore": "9.0.0",
           "Serilog.Settings.Configuration": "9.0.0",
-          "Serilog.Sinks.Console": "6.1.1"
+          "Serilog.Sinks.Console": "6.1.1",
+          "TaskSphere.Infrastructure": "1.0.0"
         },
         "compile": {
           "bin/placeholder/TaskSphere.Application.dll": {}

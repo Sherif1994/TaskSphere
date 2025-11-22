@@ -12,3 +12,4 @@ C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\obj\Debug\net8.0\refin
 C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\obj\Debug\net8.0\TaskSphere.Domain.pdb
 C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\obj\Debug\net8.0\TaskSphere.Domain.genruntimeconfig.cache
 C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\obj\Debug\net8.0\ref\TaskSphere.Domain.dll
+C:\Users\elwady\source\repos\TaskSphere\TaskSphere.Domain\obj\Debug\net8.0\TaskSphere.Domain.sourcelink.json
